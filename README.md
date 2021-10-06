@@ -1,4 +1,4 @@
-- 👋 Hello Folks, I’m @TZan
+- 👋 Hello! I’m TZan who is a intermediate freelance developer
 - 👀 I’m mainly interested in python development projects
 - 🌱 I’m currently doing Embedded Linux and GUI Programming with Python
 
