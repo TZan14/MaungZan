@@ -1,4 +1,4 @@
-- 👋 Hello! I’m TZan who is a intermediate freelance developer
+- 👋 Hello! I’m TZan who is a freelance developer
 - 👀 I’m mainly interested in python development projects but I can also code with C/C++, Arduino and Matlab for embedded projects
 - 🌱 I’m currently doing Embedded Linux and GUI Programming with Python.
 
